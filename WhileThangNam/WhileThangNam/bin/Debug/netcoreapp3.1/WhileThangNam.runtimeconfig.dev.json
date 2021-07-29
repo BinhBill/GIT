@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\BINHBILLTECH DVS\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\BINHBILLTECH DVS\\.nuget\\packages"
+    ]
+  }
+}

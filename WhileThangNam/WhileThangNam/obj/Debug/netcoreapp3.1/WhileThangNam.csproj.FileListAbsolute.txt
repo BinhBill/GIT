@@ -1,0 +1,13 @@
+C:\Users\BINHBILLTECH DVS\Dropbox\Share from Server ICT.TT\GIÁO TRÌNH HỌC - TÀI LIỆU ĐH KHTN TPHCM SLASS\Nhập Môn Lập Trình\GIT\WhileThangNam\WhileThangNam\bin\Debug\netcoreapp3.1\WhileThangNam.exe
+C:\Users\BINHBILLTECH DVS\Dropbox\Share from Server ICT.TT\GIÁO TRÌNH HỌC - TÀI LIỆU ĐH KHTN TPHCM SLASS\Nhập Môn Lập Trình\GIT\WhileThangNam\WhileThangNam\bin\Debug\netcoreapp3.1\WhileThangNam.deps.json
+C:\Users\BINHBILLTECH DVS\Dropbox\Share from Server ICT.TT\GIÁO TRÌNH HỌC - TÀI LIỆU ĐH KHTN TPHCM SLASS\Nhập Môn Lập Trình\GIT\WhileThangNam\WhileThangNam\bin\Debug\netcoreapp3.1\WhileThangNam.runtimeconfig.json
+C:\Users\BINHBILLTECH DVS\Dropbox\Share from Server ICT.TT\GIÁO TRÌNH HỌC - TÀI LIỆU ĐH KHTN TPHCM SLASS\Nhập Môn Lập Trình\GIT\WhileThangNam\WhileThangNam\bin\Debug\netcoreapp3.1\WhileThangNam.runtimeconfig.dev.json
+C:\Users\BINHBILLTECH DVS\Dropbox\Share from Server ICT.TT\GIÁO TRÌNH HỌC - TÀI LIỆU ĐH KHTN TPHCM SLASS\Nhập Môn Lập Trình\GIT\WhileThangNam\WhileThangNam\bin\Debug\netcoreapp3.1\WhileThangNam.dll
+C:\Users\BINHBILLTECH DVS\Dropbox\Share from Server ICT.TT\GIÁO TRÌNH HỌC - TÀI LIỆU ĐH KHTN TPHCM SLASS\Nhập Môn Lập Trình\GIT\WhileThangNam\WhileThangNam\bin\Debug\netcoreapp3.1\WhileThangNam.pdb
+C:\Users\BINHBILLTECH DVS\Dropbox\Share from Server ICT.TT\GIÁO TRÌNH HỌC - TÀI LIỆU ĐH KHTN TPHCM SLASS\Nhập Môn Lập Trình\GIT\WhileThangNam\WhileThangNam\obj\Debug\netcoreapp3.1\WhileThangNam.csproj.AssemblyReference.cache
+C:\Users\BINHBILLTECH DVS\Dropbox\Share from Server ICT.TT\GIÁO TRÌNH HỌC - TÀI LIỆU ĐH KHTN TPHCM SLASS\Nhập Môn Lập Trình\GIT\WhileThangNam\WhileThangNam\obj\Debug\netcoreapp3.1\WhileThangNam.AssemblyInfoInputs.cache
+C:\Users\BINHBILLTECH DVS\Dropbox\Share from Server ICT.TT\GIÁO TRÌNH HỌC - TÀI LIỆU ĐH KHTN TPHCM SLASS\Nhập Môn Lập Trình\GIT\WhileThangNam\WhileThangNam\obj\Debug\netcoreapp3.1\WhileThangNam.AssemblyInfo.cs
+C:\Users\BINHBILLTECH DVS\Dropbox\Share from Server ICT.TT\GIÁO TRÌNH HỌC - TÀI LIỆU ĐH KHTN TPHCM SLASS\Nhập Môn Lập Trình\GIT\WhileThangNam\WhileThangNam\obj\Debug\netcoreapp3.1\WhileThangNam.csproj.CoreCompileInputs.cache
+C:\Users\BINHBILLTECH DVS\Dropbox\Share from Server ICT.TT\GIÁO TRÌNH HỌC - TÀI LIỆU ĐH KHTN TPHCM SLASS\Nhập Môn Lập Trình\GIT\WhileThangNam\WhileThangNam\obj\Debug\netcoreapp3.1\WhileThangNam.dll
+C:\Users\BINHBILLTECH DVS\Dropbox\Share from Server ICT.TT\GIÁO TRÌNH HỌC - TÀI LIỆU ĐH KHTN TPHCM SLASS\Nhập Môn Lập Trình\GIT\WhileThangNam\WhileThangNam\obj\Debug\netcoreapp3.1\WhileThangNam.pdb
+C:\Users\BINHBILLTECH DVS\Dropbox\Share from Server ICT.TT\GIÁO TRÌNH HỌC - TÀI LIỆU ĐH KHTN TPHCM SLASS\Nhập Môn Lập Trình\GIT\WhileThangNam\WhileThangNam\obj\Debug\netcoreapp3.1\WhileThangNam.genruntimeconfig.cache
