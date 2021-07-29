@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tinh S(n) Cau 1 BT nhom/1.0.0": {
+        "runtime": {
+          "Tinh S(n) Cau 1 BT nhom.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tinh S(n) Cau 1 BT nhom/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

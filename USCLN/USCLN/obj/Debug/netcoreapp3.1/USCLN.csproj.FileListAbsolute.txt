@@ -1,0 +1,13 @@
+C:\Users\BINHBILLTECH DVS\Dropbox\Share from Server ICT.TT\GIÁO TRÌNH HỌC - TÀI LIỆU ĐH KHTN TPHCM SLASS\Nhập Môn Lập Trình\GIT\USCLN\USCLN\bin\Debug\netcoreapp3.1\USCLN.exe
+C:\Users\BINHBILLTECH DVS\Dropbox\Share from Server ICT.TT\GIÁO TRÌNH HỌC - TÀI LIỆU ĐH KHTN TPHCM SLASS\Nhập Môn Lập Trình\GIT\USCLN\USCLN\bin\Debug\netcoreapp3.1\USCLN.deps.json
+C:\Users\BINHBILLTECH DVS\Dropbox\Share from Server ICT.TT\GIÁO TRÌNH HỌC - TÀI LIỆU ĐH KHTN TPHCM SLASS\Nhập Môn Lập Trình\GIT\USCLN\USCLN\bin\Debug\netcoreapp3.1\USCLN.runtimeconfig.json
+C:\Users\BINHBILLTECH DVS\Dropbox\Share from Server ICT.TT\GIÁO TRÌNH HỌC - TÀI LIỆU ĐH KHTN TPHCM SLASS\Nhập Môn Lập Trình\GIT\USCLN\USCLN\bin\Debug\netcoreapp3.1\USCLN.runtimeconfig.dev.json
+C:\Users\BINHBILLTECH DVS\Dropbox\Share from Server ICT.TT\GIÁO TRÌNH HỌC - TÀI LIỆU ĐH KHTN TPHCM SLASS\Nhập Môn Lập Trình\GIT\USCLN\USCLN\bin\Debug\netcoreapp3.1\USCLN.dll
+C:\Users\BINHBILLTECH DVS\Dropbox\Share from Server ICT.TT\GIÁO TRÌNH HỌC - TÀI LIỆU ĐH KHTN TPHCM SLASS\Nhập Môn Lập Trình\GIT\USCLN\USCLN\bin\Debug\netcoreapp3.1\USCLN.pdb
+C:\Users\BINHBILLTECH DVS\Dropbox\Share from Server ICT.TT\GIÁO TRÌNH HỌC - TÀI LIỆU ĐH KHTN TPHCM SLASS\Nhập Môn Lập Trình\GIT\USCLN\USCLN\obj\Debug\netcoreapp3.1\USCLN.csproj.AssemblyReference.cache
+C:\Users\BINHBILLTECH DVS\Dropbox\Share from Server ICT.TT\GIÁO TRÌNH HỌC - TÀI LIỆU ĐH KHTN TPHCM SLASS\Nhập Môn Lập Trình\GIT\USCLN\USCLN\obj\Debug\netcoreapp3.1\USCLN.AssemblyInfoInputs.cache
+C:\Users\BINHBILLTECH DVS\Dropbox\Share from Server ICT.TT\GIÁO TRÌNH HỌC - TÀI LIỆU ĐH KHTN TPHCM SLASS\Nhập Môn Lập Trình\GIT\USCLN\USCLN\obj\Debug\netcoreapp3.1\USCLN.AssemblyInfo.cs
+C:\Users\BINHBILLTECH DVS\Dropbox\Share from Server ICT.TT\GIÁO TRÌNH HỌC - TÀI LIỆU ĐH KHTN TPHCM SLASS\Nhập Môn Lập Trình\GIT\USCLN\USCLN\obj\Debug\netcoreapp3.1\USCLN.csproj.CoreCompileInputs.cache
+C:\Users\BINHBILLTECH DVS\Dropbox\Share from Server ICT.TT\GIÁO TRÌNH HỌC - TÀI LIỆU ĐH KHTN TPHCM SLASS\Nhập Môn Lập Trình\GIT\USCLN\USCLN\obj\Debug\netcoreapp3.1\USCLN.dll
+C:\Users\BINHBILLTECH DVS\Dropbox\Share from Server ICT.TT\GIÁO TRÌNH HỌC - TÀI LIỆU ĐH KHTN TPHCM SLASS\Nhập Môn Lập Trình\GIT\USCLN\USCLN\obj\Debug\netcoreapp3.1\USCLN.pdb
+C:\Users\BINHBILLTECH DVS\Dropbox\Share from Server ICT.TT\GIÁO TRÌNH HỌC - TÀI LIỆU ĐH KHTN TPHCM SLASS\Nhập Môn Lập Trình\GIT\USCLN\USCLN\obj\Debug\netcoreapp3.1\USCLN.genruntimeconfig.cache
